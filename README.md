@@ -6,7 +6,7 @@
 
 🌱 | CSS,HTML Dev
 
-💎 | My Projects [HeriaMc | Minecraft](https://www.heriamc.it) [Heria | Osu! Private Server](https://osu.heria.it)
+💎 | My Projects [HeriaMc | Minecraft](https://www.heriamc.it) - [Heria | Osu! Private Server](https://osu.heria.it)
 
 ### My Stats
 [![MichyTwitch Github Stats](https://github-readme-stats.vercel.app/api?username=MichyTwitch&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=MichyTwitchf&theme=tokyonight)
